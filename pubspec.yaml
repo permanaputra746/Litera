@@ -1,0 +1,43 @@
+name: litera
+description: Aplikasi Litera Digital
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  fl_chart: ^1.2.0
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_animate: ^4.5.2
+  google_fonts: ^8.1.0
+  http: ^1.6.0
+  logger: ^2.7.0
+  lucide_icons: ^0.257.0
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  shared_preferences: ^2.2.0
+  sqflite: ^2.4.2+1
+  google_sign_in: ^7.2.0
+  flutter_local_notifications: ^21.0.0
+  firebase_core: ^4.9.0
+  firebase_auth: ^6.5.1
+  provider: ^6.1.5+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"

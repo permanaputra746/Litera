@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204571339046",
+    "project_id": "perpustakaan-flutter-fcb4a",
+    "storage_bucket": "perpustakaan-flutter-fcb4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204571339046:android:e23e30ec3ae728233db9e7",
+        "android_client_info": {
+          "package_name": "com.example.perpustakaan_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204571339046-3pd23vibk3onkkishvamt8ira50liroa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perpustakaan_flutter",
+            "certificate_hash": "4c2b0b64f62c8d707fc69ac6284359995409610d"
+          }
+        },
+        {
+          "client_id": "204571339046-0ovjvtv2j892u7fi6cbfsv0dppetdvka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7oB8pN9ET32IIglOevxuSgsWX1aB7jnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204571339046-0ovjvtv2j892u7fi6cbfsv0dppetdvka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
